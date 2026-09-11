@@ -1,0 +1,6 @@
+{
+  "name": "Tourism Agent Engine",
+  "description": "Real-time AI tourism management agent engine with multi-persona decision synthesis, disruption routing, demand forecasting, and tactical authority deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
